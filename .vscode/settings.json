@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "cSpell.words": [
+        "fname",
+        "jsonify",
+        "unsqueeze"
+    ]
+}
