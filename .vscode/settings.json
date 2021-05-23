@@ -1,8 +1,13 @@
 {
     "python.pythonPath": "venv\\Scripts\\python.exe",
     "cSpell.words": [
+        "Convolutional",
+        "MNIST",
+        "Pytorch",
+        "chmod",
         "fname",
         "jsonify",
-        "unsqueeze"
+        "unsqueeze",
+        "venv"
     ]
 }
