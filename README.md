@@ -113,5 +113,6 @@ and a server should be up and listening on localhost port 5000
 
 # todo
 
+- Accept base64 images
 - Add a some front end for the project
 - Deploy it on either Heroku or Azure (TBD)

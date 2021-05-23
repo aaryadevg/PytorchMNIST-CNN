@@ -1,3 +1,6 @@
+# This is the raw code from PytorchMNIST.ipynb
+# Is not really used, saved for reference incase someone does not 
+# have jupyter notebooks installed
 import torch
 import torchvision
 from torchvision.datasets import MNIST
@@ -17,7 +20,6 @@ TrainLoader = DataLoader(TrainData, BatchSZ, shuffle= True)
 ValLoader   = DataLoader(ValData, BatchSZ)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-device
 
 ModelStats = namedtuple('ModelStats', ['Loss', 'Accuracy'])
 
