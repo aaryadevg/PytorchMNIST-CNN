@@ -103,9 +103,9 @@ run.bat
 
 On Mac this process is a tiny bit more complicated
 
-```shell
+```sh
 cd app
-chmod 755 run.sh
+chmod +x run.sh
 ./run.sh
 ```
 
